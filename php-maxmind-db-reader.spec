@@ -5,7 +5,7 @@
 Summary:	MaxMind DB Reader API
 Name:		php-maxmind-db-%{pkgname}
 Version:	0.2.0
-Release:	1
+Release:	2
 License:	LGPL v2.1
 Group:		Development/Languages/PHP
 Source0:	https://github.com/maxmind/MaxMind-DB-Reader-php/archive/v%{version}/%{pkgname}-%{version}.tar.gz
